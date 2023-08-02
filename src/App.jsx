@@ -8,6 +8,10 @@ import NotFoundPage from "./pages/NotFoundPage";
 
 //componets
 import Navbar from "./componets/Navbar";
+
+
+//styles
+import "./pages/home.css";
 function App() {
   return (
     <BrowserRouter>

@@ -1,4 +1,12 @@
-*{
+* {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
+}
+
+.map-container {
+    padding: 500px;
+    background-color: red;
+    margin-top: 200px;
+
 }
