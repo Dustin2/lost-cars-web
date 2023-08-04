@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.create-user-container {
+    padding: 500px;
+    background-color: green;
+    margin-top: 200px;
+
+}

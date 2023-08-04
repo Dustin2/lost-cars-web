@@ -1,8 +1,8 @@
 import React from 'react'
-
+import "./map.css"
 function Map() {
   return (
-    <div>Map</div>
+    <div className='map-container'>Map</div>
   )
 }
 

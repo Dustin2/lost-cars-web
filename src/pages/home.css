@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 
-.map-container {
-    padding: 500px;
-    background-color: red;
-    margin-top: 200px;
-
+.home-container {
+    padding: 200px 50px;
+    /* background-color: red; */
+    /* margin-top: 200px; */
+/* color: aliceblue; */
 }
